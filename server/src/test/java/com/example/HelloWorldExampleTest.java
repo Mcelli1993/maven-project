@@ -8,6 +8,6 @@ public class HelloWorldExampleTest{
 public void test(){
 
 
-assetTrue(1==3);
+assertTrue(1==3);
 }
 }
