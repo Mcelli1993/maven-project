@@ -1,4 +1,4 @@
-<
+<%
 <html>
   <title>My Custom Tags Result</title>
   <body>
