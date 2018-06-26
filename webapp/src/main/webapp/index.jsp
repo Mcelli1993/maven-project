@@ -1,4 +1,4 @@
-<%@ taglib uri="/myTLD" prefix="mytag"%>
+<%@ taglib  prefix="mytag"%>
 <html>
   <title>My Custom Tags Result</title>
   <body>
