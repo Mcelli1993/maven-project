@@ -1,4 +1,4 @@
-<%@ taglib  prefix="mytag"%>
+<%
 <html>
   <title>My Custom Tags</title>
   <body>
@@ -10,3 +10,4 @@
     <!-- removed tag from here -->
   </body>
 </html>
+%>
