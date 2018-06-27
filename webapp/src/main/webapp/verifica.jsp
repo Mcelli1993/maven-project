@@ -5,7 +5,7 @@ int divisores = 0;
 
 for(int i=1;  i <= primo; i++){
     
-        if (numero % i ==0){
+        if (primo % i ==0){
            divisores++;       
         }
     
