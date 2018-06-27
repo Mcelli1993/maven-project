@@ -1,6 +1,6 @@
 <%
 
-int login_ = request.getParameter("login");
+int primo  = Integer.parseInt(request.getParameter("numero"));
 
-out.println("<br>" + "login: " + login_);
+out.println("<br>" + "Seu numero: " + primo);
 %>
