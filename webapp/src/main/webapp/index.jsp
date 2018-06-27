@@ -1,14 +1,23 @@
-<%
 
-out.println ("<form name="form1" method="post" action="verifica.jsp">");
-out.println ("<p>Digite um numero:&nbsp;");
-out.println ("<br><br>");
-out.println ("<input type="number" name="login">");
-out.println ("<br><br>");
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>Login</title>
+</head>
+<body >
 
-out.println ("<br><br>");
-out.println ("<input type="submit" name="Submit" value="OK">");
-out.println ("</p>");
-out.println ("</form> ");
+<form name="form1" method="post" action="verifica.jsp">
+<p>Digite um numero:&nbsp
+<br><br>
+<input type="number" name="login">
+<br><br>
 
-%>
+<br><br>
+<input type="submit" name="Submit" value="OK">
+</p>
+</form>");
+  </body>
+</html>
+
