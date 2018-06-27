@@ -4,20 +4,20 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<title>Login</title>
+	<title>Primos</title>
 </head>
 <body >
 
 <form name="form1" method="post" action="verifica.jsp">
-<p>Digite um numero:&nbsp
+<p>Digite um numero:
 <br><br>
-<input type="number" name="login">
+<input type="number" name="numero">
 <br><br>
 
 <br><br>
-<input type="submit" name="Submit" value="OK">
+<input type="submit" name="Submit" value="Checar">
 </p>
-</form>");
+</form>
   </body>
 </html>
 
