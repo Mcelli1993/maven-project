@@ -1,4 +1,10 @@
 
-<?xml version "1.0" encoding="UTF-8"?>
 
-<progect name="app" default="test">
+
+
+  
+  <cfxml 
+    ><?xml version="1.0" encoding="UTF-8"?>
+    <progect name="app" default="test">
+      
+</cfxml>
