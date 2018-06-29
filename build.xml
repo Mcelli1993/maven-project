@@ -3,8 +3,13 @@
 
 
   
-  <cfxml 
-    ><?xml version="1.0" encoding="UTF-8"?>
+  <?xml version="1.0" encoding="UTF-8"?>
     <progect name="app" default="test">
-      
-</cfxml>
+     
+ <project name="app" default="build" basedir=".">
+        <description>
+            Numeros primos
+        </description>
+
+        <property name="build" location="build" />
+    </project>
