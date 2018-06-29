@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <project name="app" default="test">
-     
- <project name="app" default="build" basedir=".">
+   <project name="app" default="build" basedir=".">
         <description>
             Numeros primos
         </description>
-
         <property name="build" location="build" />
     </project>
