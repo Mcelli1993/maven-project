@@ -4,4 +4,9 @@
             Numeros primos
         </description>
         <property name="build" location="build" />
+      <target name="compile">
+    <echo message="Compilando o codigo"/>
+    </target>
+
+
     </project>
