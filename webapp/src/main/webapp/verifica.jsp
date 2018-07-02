@@ -6,8 +6,8 @@ int divisores = 0;
 for(int i=1;  i <= primo; i++){
     
         if (primo % i ==0){
-           divisores++;      
-           
+           //divisores++;      
+           geraa erro
          
         }
     
